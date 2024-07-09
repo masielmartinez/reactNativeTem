@@ -132,7 +132,12 @@ Woohoo! You got your first mobile app running.
 
 ### 2.  🌠 [Picking an image](https://docs.expo.io/tutorial/image-picker/)
 
-# Part 3: Make an app about yourself.
+# Part 3: Make an app about you and a scholar.
+We want you to work with another scholar to create an app that represent both of you! Make sure the app shows off both of your creative personality 
+Here are some ideas you can do:
+-Things we have in common (Hobbies, Foods, intrest...)
+-About eachother 
+
 
 ## First, fork and clone this lab repo:
 ### To run 
